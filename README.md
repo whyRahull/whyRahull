@@ -1,5 +1,5 @@
 - Hey there!
-- I'm a Neophile, love music, interested in Astronomy and coding, an amateur game-hacker (you can call me a cheater in CSGO/VALORANT)
+- I'm a Neophile, love music, interested in Astronomy and coding, an amateur game-hacker/script maker.
 - I'm not someone who know's everything but I'm someone who wants to know everything. I'm passionate about learning, Coding and this is the very beginning of my coding career.
 - My goal is to learn and shape myself as much as possible.
 
