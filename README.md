@@ -72,9 +72,8 @@
 </div>
 
 ###                          
-                                                                                        
-                              -Coffee is everything for me-                                                                      
-                                                                                        
+                                                                                                                                                       
+- "Coffee is everything for me"
                                                                                       
 ###
 
