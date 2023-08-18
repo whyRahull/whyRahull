@@ -20,6 +20,8 @@
 - "I am something of a scientist myself." -Norman Osborn, I'm highly interested in Physics and Mathematics, and as long as I'm doing something which interests me, It's the correct path for me.
   
 - The main ingredient for achieving anything is hardwork, I'm a person who believes in Hard work.
+
+- "Coffee is everything for me"
   
 - Rest lies in the future
 
@@ -73,7 +75,7 @@
 
 ###                          
                                                                                                                                                        
-- "Coffee is everything for me"
+
                                                                                       
 ###
 
