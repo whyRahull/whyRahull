@@ -11,7 +11,6 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif"  />
 
-- Hey there! CodeByte156 here,
 - I'm a Neophile, love music, interested in Astronomy and coding, an amateur game-hacker/script maker and freelancer(reselling and other *stuff*)
 
 
@@ -23,8 +22,7 @@
 - The main ingredient for achieving anything is hardwork, I'm a person who believes in Hard work.
 - Rest lies in the future
 
-                                                                                        
-                                                                                                                                                                   
+                                                                                                      
                                                                                         
                                                                                         
                                       ██    ██    ██                                    
