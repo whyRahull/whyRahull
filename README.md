@@ -66,6 +66,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/codebyte156/codebyte156/output/snake.svg" alt="Snake animation" />
 
 ###
