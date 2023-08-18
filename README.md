@@ -11,8 +11,39 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif"  />
 
-###
+- Hey there! CodeByte156 here,
+- I'm a Neophile, love music, interested in Astronomy and coding, an amateur game-hacker/script maker and freelancer(reselling and other *stuff*)
 
+
+- I'm a Neophile, love music, interested in Astronomy and coding, an amateur game/game-script maker and freelancer( reselling and other *stuff* )
+- I'm not someone who know's everything but I'm someone who wants to know everything. I'm passionate about learning, Coding and this is the very beginning of my coding career.
+- My goal is to learn and shape myself as much as possible.
+
+- "I am something of a scientist myself." -Norman Osborn, I'm highly interested in Physics and Mathematics, and as long as I'm doing something which interests me, It's the correct path for me.
+- The main ingredient for achieving anything is hardwork, I'm a person who believes in Hard work.
+- Rest lies in the future
+
+                                                                                        
+                                                                                                                                                                   
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████
+
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -41,27 +72,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rahul-raut-1a2b19256/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="rahulraut007123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="twitch.tv/raulofrivia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://twitter.com/Rsquare_007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="r156" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
+###                          
+                                                                                        
+                              -Coffee is everything for me-                                                                      
+                                                                                        
+                                                                                      
 ###
 
 <br clear="both">
