@@ -1,4 +1,4 @@
-<h2 align="left">Hey there✌! This is Rahul and I'm a Computer Science Student. Here's what I do,</h2>
+<h2 align="left">Hey there✌! This is Rahul. Here's what I do,</h2>
 
 ###
 
@@ -11,16 +11,12 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif"  />
 
-- I'm a Neophile, love music, interested in Astronomy and coding, an amateur game-hacker/script maker and freelancer(reselling and other *stuff*)
+- I'm a Neophile, interested in Astronomy and coding, and an amateur game-script maker and freelancer(reselling and other *stuff*)
  
-- I'm not someone who know's everything but I'm someone who wants to know everything. I'm passionate about learning, Coding and this is the very beginning of my coding career.
+- I'm passionate about learning, Coding and this is the very beginning of my coding career.
 
-- My goal is to learn and shape myself as much as possible.
-
-- "I am something of a scientist myself." -Norman Osborn, I'm highly interested in Physics and Mathematics, and as long as I'm doing something which interests me, It's the correct path for me.
+- "I am something of a scientist myself." -Norman Osborn.
   
-- The main ingredient for achieving anything is hardwork, I'm a person who believes in Hard work.
-
 - "Coffee is everything for me"
   
 - Rest lies in the future
